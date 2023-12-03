@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+}
+
+form {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+button, input {
+    margin: 10px !important;
+}

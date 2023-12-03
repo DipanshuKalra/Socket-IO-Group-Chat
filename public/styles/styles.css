@@ -1,0 +1,34 @@
+html, body {
+    height: 100%;
+}
+
+form {
+    display: flex;
+}
+
+.container-div {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.google-blue-bg-color {
+    background-color: rgb(50, 208, 26) !important;
+}
+
+.grey-bg-color {
+    background-color: grey !important;
+}
+
+.alert-margin {
+    margin: 20px;
+}
+
+.sent-message {
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+}
